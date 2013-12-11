@@ -1,0 +1,11 @@
+'.workspace':
+  'cmd-p': 'command-palette:toggle'
+  'ctrl-w v': 'pane:split-right'
+  'ctrl-w s': 'pane:split-down'
+  'ctrl-w w': 'window:focus-next-pane'
+
+'.editor':
+  'ctrl-{': 'editor:fold-all'
+  'ctrl-}': 'editor:unfold-all'
+  'ctrl-[': 'editor:fold-current-row'
+  'ctrl-]': 'editor:unfold-current-row'
