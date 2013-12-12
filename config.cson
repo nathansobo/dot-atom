@@ -1,11 +1,11 @@
 'welcome':
   'showOnStartup': false
 'editor':
-  'fontSize': 16
+  'fontSize': 18
 'core':
   'themes': [
-    'atom-dark-ui'
-    'atom-dark-syntax'
+    'atom-light-ui'
+    'atom-light-syntax'
   ]
   'ignoredNames': [
     '.git'
@@ -18,3 +18,5 @@
     'source.gfm'
     'text.git-commit'
   ]
+'metrics':
+  'userId': 'c8d2e8db-4c48-aaac-f472-2fe1e7705c57'
