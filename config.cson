@@ -1,6 +1,7 @@
 'welcome':
   'showOnStartup': false
 'editor':
+  'softWrapAtPreferredLineLength': true
 'core':
   'themes': [
     'atom-light-ui'
