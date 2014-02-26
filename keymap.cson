@@ -5,6 +5,7 @@
   'ctrl-w w': 'window:focus-next-pane'
 
 '.editor':
+  'ctrl-a': 'editor:move-to-first-character-of-line'
   'ctrl-{': 'editor:fold-all'
   'ctrl-}': 'editor:unfold-all'
   'ctrl-[': 'editor:fold-current-row'
