@@ -1,7 +1,6 @@
 'welcome':
   'showOnStartup': false
 'editor':
-  'fontSize': 18
 'core':
   'themes': [
     'atom-light-ui'
