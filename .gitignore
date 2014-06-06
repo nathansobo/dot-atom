@@ -1,2 +1,5 @@
 storage
 .node-gyp
+compile-cache
+.npm
+packages
