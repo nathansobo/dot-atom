@@ -3,10 +3,6 @@
 'editor':
   'softWrapAtPreferredLineLength': true
 'core':
-  'themes': [
-    'atom-light-ui'
-    'atom-light-syntax'
-  ]
   'ignoredNames': [
     '.git'
     '.svn'
@@ -20,3 +16,5 @@
   ]
 'metrics':
   'userId': 'c8d2e8db-4c48-aaac-f472-2fe1e7705c57'
+'exception-reporting':
+  'userId': '23066bb9-13ba-e624-b0db-bbdc54eb9bfb'
