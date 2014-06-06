@@ -14,3 +14,4 @@
   'ctrl-}': 'editor:unfold-all'
   'ctrl-[': 'editor:fold-current-row'
   'ctrl-]': 'editor:unfold-current-row'
+  'alt-cmd-w': 'editor:toggle-soft-wrap'
