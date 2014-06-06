@@ -3,6 +3,10 @@
   'ctrl-w v': 'pane:split-right'
   'ctrl-w s': 'pane:split-down'
   'ctrl-w w': 'window:focus-next-pane'
+  'ctrl-alt-cmd-t': 'user:toggle-timeline'
+  'ctrl-alt-cmd-r': 'user:toggle-profile'
+  'ctrl-alt-cmd-s': 'user:react-perf'
+  'cmd-alt-ctrl-b': 'application:run-benchmarks'
 
 '.editor':
   'ctrl-a': 'editor:move-to-first-character-of-line'
